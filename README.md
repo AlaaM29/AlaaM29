@@ -5,7 +5,7 @@
 <img src="https://i.pinimg.com/736x/fd/3d/17/fd3d176fe202c8a6a644488f1a91c144.jpg" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary> 🎧 En train d’étudier & coder tout en écoutant : </summary> </strong></p>
+<p><strong> <summary> 💻 Étudiante passionnée par l’informatique, toujours en train d’apprendre et de coder de nouvelles choses ! </summary> </strong></p>
 
 
 
