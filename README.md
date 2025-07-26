@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="fd3d176fe202c8a6a644488f1a91c144.jpg" alt="Hello Coders" width="60%"/> <br>
+<img src="1e7f65decc7432ccd01affeef08d38fa.jpg" alt="Workspace"  width="40%"/><br> 
 
 <details>
 <p><strong> <summary> 🎧 En train d’étudier & coder tout en écoutant : </summary> </strong></p>
