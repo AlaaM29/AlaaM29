@@ -4,12 +4,12 @@
 
 <img src="https://i.pinimg.com/736x/fd/3d/17/fd3d176fe202c8a6a644488f1a91c144.jpg" alt="Workspace"  width="40%"/><br> 
 
-<details>
+
 <p><strong> <summary> 💻 Étudiante passionnée par l’informatique, toujours en train d’apprendre et de coder de nouvelles choses ! </summary> </strong></p>
 
 
 
-</details>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alaa-missaoui&style=flat&color=orange&label=PROFILE+VIEWS)
 
