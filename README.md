@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/79bfeccc-c33e-4c74-bab2-45f375a61783" width="40%" /><br>
+<img  alt="image" src="https://github.com/user-attachments/assets/79bfeccc-c33e-4c74-bab2-45f375a61783" width="40%" /><br>
 
 
 <img src="https://i.pinimg.com/736x/fd/3d/17/fd3d176fe202c8a6a644488f1a91c144.jpg" alt="Workspace"  width="40%"/><br> 
