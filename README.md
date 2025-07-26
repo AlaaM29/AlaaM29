@@ -7,7 +7,7 @@
 <details>
 <p><strong> <summary> 🎧 En train d’étudier & coder tout en écoutant : </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
+
 
 </details>
 
