@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
-<img src="fd3d176fe202c8a6a644488f1a91c144.jpg" alt="Hello Coders" width="60%"/> <br>
-<img src="https://i.pinimg.com/1200x/1e/7f/65/1e7f65decc7432ccd01affeef08d38fa.jpg" alt="Workspace"  width="40%"/><br> 
+<img src="" width="60%"/> <br>
+<img src="https://i.pinimg.com/736x/d1/5e/65/d15e6524be8ac145434984d4f7deadd6.jpg" alt="Workspace"  width="40%"/><br> 
 
 <details>
 <p><strong> <summary> 🎧 En train d’étudier & coder tout en écoutant : </summary> </strong></p>
