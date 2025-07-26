@@ -18,7 +18,7 @@
 ---
 
 ## 👩‍💻 À propos de moi  
-- 🇹🇳 **Alaa Missaoui**, étudiante tunisienne à **ISIMS (Institut Supérieur d’Informatique et de Multimédia de Sfax)**.  
+- 🇹🇳 **AlaaM**, étudiante tunisienne à **ISIMS (Institut Supérieur d’Informatique et de Multimédia de Sfax)**.  
 - 🎓 Passionnée par l’informatique, le développement web et la programmation.  
 - 📚 J’apprends actuellement **Java** et je continue à progresser en développement web.  
 
