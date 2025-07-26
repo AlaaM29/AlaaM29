@@ -18,7 +18,7 @@
 ---
 
 ## 👩‍💻 À propos de moi  
-- 🇹🇳 **AlaaM**, étudiante tunisienne à <a href="https://fr.wikipedia.org/wiki/Institut_sup%C3%A9rieur_d%27informatique_et_de_multim%C3%A9dia_de_Sfax">**ISIMS (Institut Supérieur d’Informatique et de Multimédia de Sfax)**.</a>
+- 🇹🇳 **AlaaM**, étudiante tunisienne à <a href="https://fr.wikipedia.org/wiki/Institut_sup%C3%A9rieur_d%27informatique_et_de_multim%C3%A9dia_de_Sfax" target="_blank">**ISIMS (Institut Supérieur d’Informatique et de Multimédia de Sfax)**.</a>
 - 🎓 Passionnée par l’informatique, le développement web et la programmation.  
 - 📚 J’apprends actuellement **Java** et je continue à progresser en développement web.  
 
